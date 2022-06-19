@@ -1,4 +1,4 @@
-# habitTracker
+# Habit Tracker
 A simple habit tracker app using React.js
 
 ## Features
